@@ -3,6 +3,17 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# missed linux files
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+__pycache__/
+*.pyc
+*.pyo
+.env
+
 # C extensions
 *.so
 
